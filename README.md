@@ -49,3 +49,4 @@ node-stack
 - https://github.com/daguej/rerequest - make in-app request to express route, good for testing routes
 - http://dev.maxmind.com/geoip/legacy/geolite/ - IP geolocation db, driver for it https://github.com/runk/node-maxmind
 - http://bunkat.github.io/later/ - cron time period alternative
+- https://github.com/digitalbazaar/forge - all about ssl, tls, digest, crypting etc
