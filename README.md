@@ -23,6 +23,7 @@ node-stack
 - https://github.com/visionmedia/better-assert - better asssert with dev env
 - https://github.com/visionmedia/connect-redis - sessions in redis
 - https://github.com/visionmedia/page.js - express like url matching
+- https://github.com/chriso/node-validator - advanced validation rules, standolone, express integration
 
 
 ### components.js
