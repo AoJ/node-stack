@@ -15,6 +15,7 @@ node-stack
 ### tools
 - https://github.com/AoJ/reap - monitoring and unlink old files from folder
 - https://github.com/AoJ/ngen - generate app from template
+- https://github.com/davidnqd/lucidtail - watch and parse log files, web ui
 
 
 ### app
