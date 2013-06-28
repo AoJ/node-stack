@@ -25,6 +25,7 @@ node-stack
 - https://github.com/visionmedia/connect-redis - sessions in redis
 - https://github.com/visionmedia/page.js - express like url matching
 - https://github.com/chriso/node-validator - advanced validation rules, standolone, express integration
+- https://github.com/insomnia90/era - simple wrapper for passport.js
 
 
 ### components.js
@@ -38,3 +39,13 @@ node-stack
 - https://github.com/visionmedia/node-querystring - querystring parser and builder
 - https://github.com/visionmedia/jstream - big json streaming parse
 - https://github.com/visionmedia/node-only - return olny some fields from obj
+- 
+
+
+### watch/future
+- https://github.com/insomnia90/era - generate rest url for mongoose model
+- https://github.com/chenglou/data-structures - interesting implementation of common data structure algs (trees, queue), next https://github.com/chenglou/code-snippets/tree/master/Algorithms
+- https://github.com/Obvious/falkor - http testing framework
+- https://github.com/daguej/rerequest - make in-app request to express route, good for testing routes
+- http://dev.maxmind.com/geoip/legacy/geolite/ - IP geolocation db, driver for it https://github.com/runk/node-maxmind
+- http://bunkat.github.io/later/ - cron time period alternative
