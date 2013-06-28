@@ -4,6 +4,7 @@ node-stack
 
 ### debuggin
 - https://github.com/AoJ/debug-1 - profilling and logging some msgs
+- https://github.com/devdazed/supermock - simple and powerfull mocking
 
 
 ### monitoring
