@@ -26,6 +26,8 @@ node-stack
 - https://github.com/visionmedia/page.js - express like url matching
 - https://github.com/chriso/node-validator - advanced validation rules, standolone, express integration
 - https://github.com/insomnia90/era - simple wrapper for passport.js
+- https://github.com/AoJ/it.js - make easy getting properties or calling functions on arrays, usefull
+- https://github.com/bestiejs/lodash - underscore replacement, more functions, more performance
 
 
 ### components.js
