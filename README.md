@@ -61,3 +61,7 @@ Frameworks
 
 ### Angular
 - https://github.com/dtinth/synchroscope - syncing angular stack via websocket with many clients
+ 
+
+### TypeScript
+- https://github.com/borisyankov/DefinitelyTyped - definition library
