@@ -53,7 +53,7 @@ node-stack
 - http://bunkat.github.io/later/ - cron time period alternative
 - https://github.com/digitalbazaar/forge - all about ssl, tls, digest, crypting etc
 - https://github.com/laverdet/node-fibers - powerfull c++ implementation future, yields and promise. Everyone should know it
-
+- https://github.com/scriby/asyncblock - very sexy lib build on top of node-fibers, recommend it
 
 
 Frameworks
