@@ -57,6 +57,11 @@ node-stack
 - https://github.com/kilianc/node-fnqueue - another way implementation flow function control
 
 
+
+### Database
+- https://github.com/Submersible/node-magnolia - simple and sexy alternative driver for pure mongo
+
+
 Frameworks
 ==========
 
