@@ -32,6 +32,7 @@ node-stack
 
 ### components.js
 - https://github.com/component/model - common class for data model
+- https://github.com/anthonyshort/emitter-manager - adding on removing events on multi emitters
 
 
 
