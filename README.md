@@ -7,6 +7,10 @@ node-stack
 - https://github.com/devdazed/supermock - simple and powerfull mocking
 
 
+### testing
+- https://github.com/creationix/simple-stream-helpers - tools for testing streams
+
+
 ### monitoring
 - https://github.com/etsy/statsd/ - daemon to collecting logs with graphs
 - https://github.com/thedeveloper/abacus - example implementation statsd in node.js
