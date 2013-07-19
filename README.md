@@ -38,6 +38,7 @@ node-stack
 
 ### components.js
 - https://github.com/component/model - common class for data model
+- https://github.com/ericgj/model-undoable - extend copomponent/model to undoable
 - https://github.com/anthonyshort/emitter-manager - adding on removing events on multi emitters
 - https://github.com/dominictarr/indexhtmlify - wrapper browserify to simple index.html page
 - https://github.com/ianstormtaylor/history - wrapper for history API
