@@ -34,6 +34,7 @@ node-stack
 ### components.js
 - https://github.com/component/model - common class for data model
 - https://github.com/anthonyshort/emitter-manager - adding on removing events on multi emitters
+- https://github.com/dominictarr/indexhtmlify - wrapper browserify to simple index.html page
 
 
 
