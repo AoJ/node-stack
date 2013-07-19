@@ -18,6 +18,7 @@ node-stack
 - https://github.com/AoJ/ngen - generate app from template
 - https://github.com/davidnqd/lucidtail - watch and parse log files, web ui
 - https://github.com/visionmedia/node-term-list - terminal interactive selectable list
+- https://github.com/fgnass/instant-server - screate file server from current directory, live reaload css and js
 
 
 ### app
