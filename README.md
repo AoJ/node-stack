@@ -44,6 +44,7 @@ node-stack
 - https://github.com/visionmedia/node-querystring - querystring parser and builder
 - https://github.com/visionmedia/jstream - big json streaming parse
 - https://github.com/visionmedia/node-only - return olny some fields from obj
+- https://github.com/dominictarr/shasum - sha1 wrapper for easy use
 
 
 
