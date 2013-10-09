@@ -11,6 +11,13 @@ node-stack
 - https://github.com/creationix/simple-stream-helpers - tools for testing streams
 
 
+### testing UI
+## more at http://csste.st
+- https://github.com/facebook/huxley - image diff - separe small page component and test it!
+- https://github.com/Huddle/PhantomCSS - image diff - comparable with huxley, worst syntax
+- https://github.com/thingsinjars/Hardy - styleguide - testing position and style properties, coffee
+
+
 ### monitoring
 - https://github.com/etsy/statsd/ - daemon to collecting logs with graphs
 - https://github.com/thedeveloper/abacus - example implementation statsd in node.js
