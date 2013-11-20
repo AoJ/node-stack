@@ -89,3 +89,12 @@ Frameworks
 
 ### TypeScript
 - https://github.com/borisyankov/DefinitelyTyped - definition library
+
+
+Testing / Experimental / Beta
+=============================
+- https://github.com/nodeca/nodeca
+- https://github.com/mixu/ansi2html
+- https://github.com/share/ShareJS
+- https://github.com/nature/pa11y-webservice
+- https://github.com/terinjokes/docker-npmjs
