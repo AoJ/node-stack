@@ -57,7 +57,7 @@ node-stack
 - https://github.com/yields/component-bundle - generate bundle for part of app
 - https://github.com/yields/sortable - element/list sortable
 - https://github.com/yields/zip - simple create zip file in client
-
+- https://github.com/component/to-function - easy way to access to multilevel json structure
 
 
 ### algoritms
