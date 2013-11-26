@@ -55,6 +55,7 @@ node-stack
 - https://github.com/yields/editable - wysiwyg contentEditable with tiny dependencies
 - https://github.com/yields/editable - nice tooltip
 - https://github.com/yields/component-bundle - generate bundle for part of app
+- https://github.com/yields/sortable - element/list sortable
 
 
 
