@@ -50,6 +50,7 @@ node-stack
 - https://github.com/dominictarr/indexhtmlify - wrapper browserify to simple index.html page
 - https://github.com/ianstormtaylor/history - wrapper for history API
 - https://github.com/yields/to-element - shorthand to working with dom and elements
+- https://github.com/yields/select - simple multiselect
 
 
 
