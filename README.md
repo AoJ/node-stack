@@ -54,6 +54,7 @@ node-stack
 - https://github.com/yields/redact-popover - contentEditable popover for selection - bold, italic etc
 - https://github.com/yields/editable - wysiwyg contentEditable with tiny dependencies
 - https://github.com/yields/editable - nice tooltip
+- https://github.com/yields/component-bundle - generate bundle for part of app
 
 
 
