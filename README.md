@@ -58,6 +58,7 @@ node-stack
 - https://github.com/yields/sortable - element/list sortable
 - https://github.com/yields/zip - simple create zip file in client
 - https://github.com/component/to-function - easy way to access to multilevel json structure
+- https://github.com/yields/download - downloading files with progress
 
 
 ### algoritms
