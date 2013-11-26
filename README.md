@@ -56,6 +56,7 @@ node-stack
 - https://github.com/yields/editable - nice tooltip
 - https://github.com/yields/component-bundle - generate bundle for part of app
 - https://github.com/yields/sortable - element/list sortable
+- https://github.com/yields/zip - simple create zip file in client
 
 
 
