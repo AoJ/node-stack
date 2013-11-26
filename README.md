@@ -51,6 +51,7 @@ node-stack
 - https://github.com/ianstormtaylor/history - wrapper for history API
 - https://github.com/yields/to-element - shorthand to working with dom and elements
 - https://github.com/yields/select - simple multiselect
+- https://github.com/yields/redact-popover - contentEditable popover for selection - bold, italic etc
 
 
 
