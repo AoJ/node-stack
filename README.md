@@ -52,6 +52,7 @@ node-stack
 - https://github.com/yields/to-element - shorthand to working with dom and elements
 - https://github.com/yields/select - simple multiselect
 - https://github.com/yields/redact-popover - contentEditable popover for selection - bold, italic etc
+- https://github.com/yields/editable - wysiwyg contentEditable with tiny dependencies
 
 
 
