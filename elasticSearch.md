@@ -14,6 +14,7 @@ Elastic Search
 - http://blog.bugsense.com/post/35580279634/indexing-bigdata-with-elasticsearch - opět es s hodně daty, tady jsou zároveň i zmíněny změny nastavení es indexy
 - http://www.slideshare.net/netconstructor/bigdata-f-apache-solr-vs-elasticsearch - porovnání Solr a lucene
 - http://www.elasticsearch.org/blog/disk-based-field-data-a-k-a-doc-values/ - doc values aneb jak nechat data na disku ala couch a použit je jen pro analyzování
+- http://www.elasticsearch.org/blog/disk-based-field-data-a-k-a-doc-values/ - tutorial na logstash, kibana a es
 
 
 ### ejs
