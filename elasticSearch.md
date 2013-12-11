@@ -11,6 +11,7 @@ Elastic Search
 - http://nhhagen.wordpress.com/2013/11/28/query-log-analysis-using-logstash-elasticsearch-and-kibana/ - efektní dashboard s přehledem dat z elesticsearch logu
 - http://found.no/foundation/similarity/ - vysvětlení jak lucene zachází se similarity
 - http://www.elasticsearch.org/videos/big-data-search-and-analytics/ - přednáška o použití es s hodně daty
+- http://blog.bugsense.com/post/35580279634/indexing-bigdata-with-elasticsearch - opět es s hodně daty, tady jsou zároveň i zmíněny změny nastavení es indexy
 
 
 ### software
