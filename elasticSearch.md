@@ -18,6 +18,9 @@ Elastic Search
 - http://blog.florian-hopf.de/2013/11/reindexing-content-in-elasticsearch.html - povídání o reindexaci
 - http://dougmcclure.net/blog/2013/11/event-analysis-using-smartcloud-analytics-log-analysis-scala-v1103-deploying-logstash/ - opět tu  máme scalu a logstash
 
+### pluginy
+- https://github.com/vhyza/elasticsearch-analysis-lemmagen - od českého autora zajímavá implementace LemnaGen - vyhleádávní
+
 
 ### ejs
 - http://www.fullscale.co/blog/2013/01/17/Tackling_Big_Data_with_elasticsearch.html - pár příkladů s ejs a reduce
