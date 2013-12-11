@@ -16,6 +16,7 @@ Elastic Search
 - http://www.elasticsearch.org/blog/disk-based-field-data-a-k-a-doc-values/ - doc values aneb jak nechat data na disku ala couch a použit je jen pro analyzování
 - http://www.elasticsearch.org/blog/disk-based-field-data-a-k-a-doc-values/ - tutorial na logstash, kibana a es
 - http://blog.florian-hopf.de/2013/11/reindexing-content-in-elasticsearch.html - povídání o reindexaci
+- http://dougmcclure.net/blog/2013/11/event-analysis-using-smartcloud-analytics-log-analysis-scala-v1103-deploying-logstash/ - opět tu  máme scalu a logstash
 
 
 ### ejs
