@@ -14,5 +14,9 @@ Elastic Search
 - http://blog.bugsense.com/post/35580279634/indexing-bigdata-with-elasticsearch - opět es s hodně daty, tady jsou zároveň i zmíněny změny nastavení es indexy
 
 
+### ejs
+- http://www.fullscale.co/blog/2013/01/17/Tackling_Big_Data_with_elasticsearch.html - pár příkladů s ejs a reduce
+
+
 ### software
 - http://sematext.com/search-analytics/ - služba poskytující grafy a nalitiku pro elasticsearch
