@@ -19,7 +19,7 @@ Elastic Search
 - http://dougmcclure.net/blog/2013/11/event-analysis-using-smartcloud-analytics-log-analysis-scala-v1103-deploying-logstash/ - opět tu  máme scalu a logstash
 
 ### pluginy
-- https://github.com/vhyza/elasticsearch-analysis-lemmagen - od českého autora zajímavá implementace LemnaGen - vyhleádávní
+- https://github.com/vhyza/elasticsearch-analysis-lemmagen - od českého autora zajímavá implementace LemnaGen - vyhleádávní - převede slova z textu na základní tvary
 
 
 ### ejs
