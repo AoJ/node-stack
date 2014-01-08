@@ -83,6 +83,7 @@ node-stack
 - https://github.com/laverdet/node-fibers - powerfull c++ implementation future, yields and promise. Everyone should know it
 - https://github.com/scriby/asyncblock - very sexy lib build on top of node-fibers, recommend it
 - https://github.com/kilianc/node-fnqueue - another way implementation flow function control
+- https://github.com/kr/beanstalkd - queue, https://github.com/assaf/ironium
 
 
 
