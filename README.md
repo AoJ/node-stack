@@ -89,6 +89,7 @@ node-stack
 
 ### Database
 - https://github.com/Submersible/node-magnolia - simple and sexy alternative driver for pure mongo
+- https://github.com/dominictarr/crdt - cumulative data synchronization
 
 
 Frameworks
